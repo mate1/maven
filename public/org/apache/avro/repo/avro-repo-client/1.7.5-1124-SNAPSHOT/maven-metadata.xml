@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.avro.repo</groupId>
+  <artifactId>avro-repo-client</artifactId>
+  <version>1.7.5-1124-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131205.054328</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20131205054328</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.7.5-1124-20131205.054328-4</value>
+        <updated>20131205054328</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.7.5-1124-20131205.054328-4</value>
+        <updated>20131205054328</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
