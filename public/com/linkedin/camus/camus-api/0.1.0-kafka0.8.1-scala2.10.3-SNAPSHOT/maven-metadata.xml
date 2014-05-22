@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.linkedin.camus</groupId>
+  <artifactId>camus-api</artifactId>
+  <version>0.1.0-kafka0.8.1-scala2.10.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140520.175714</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20140520175714</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.0-kafka0.8.1-scala2.10.3-20140520.175714-3</value>
+        <updated>20140520175714</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.0-kafka0.8.1-scala2.10.3-20140520.175714-3</value>
+        <updated>20140520175714</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>0.1.0-kafka0.8.1-scala2.10.3-20140520.175714-3</value>
+        <updated>20140520175714</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
