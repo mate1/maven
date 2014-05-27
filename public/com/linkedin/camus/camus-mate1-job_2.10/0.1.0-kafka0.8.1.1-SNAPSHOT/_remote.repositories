@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 27 11:49:39 EDT 2014
+camus-mate1-job_2.10-0.1.0-kafka0.8.1.1-SNAPSHOT.jar>=
+camus-mate1-job_2.10-0.1.0-kafka0.8.1.1-SNAPSHOT-tests.jar>=
+camus-mate1-job_2.10-0.1.0-kafka0.8.1.1-SNAPSHOT-shaded.jar>=
+camus-mate1-job_2.10-0.1.0-kafka0.8.1.1-SNAPSHOT.pom>=

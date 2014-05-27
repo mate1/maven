@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.linkedin.camus</groupId>
+  <artifactId>camus-etl-kafka_2.10</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+      <version>0.1.0-kafka0.8.1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140527154923</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 27 11:49:17 EDT 2014
+camus-api_2.10-0.1.0-kafka0.8.1.1-SNAPSHOT.pom>=
+camus-api_2.10-0.1.0-kafka0.8.1.1-SNAPSHOT-tests.jar>=
+camus-api_2.10-0.1.0-kafka0.8.1.1-SNAPSHOT.jar>=
